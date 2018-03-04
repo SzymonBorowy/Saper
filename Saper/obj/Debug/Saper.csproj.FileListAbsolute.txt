@@ -1,0 +1,9 @@
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\bin\Debug\Saper.exe.config
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\bin\Debug\Saper.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\bin\Debug\Saper.pdb
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.Form1.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.exe
+c:\users\voltpc3\documents\visual studio 2015\Projects\Saper\Saper\obj\Debug\Saper.pdb
